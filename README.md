@@ -1,3 +1,10 @@
+# Skills Demo App
+This repository serves as a demonstration of a React application. The
+application shows a list of web development skills.
+
+See https://aciccarello.github.io/skills
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
