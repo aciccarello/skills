@@ -1,0 +1,85 @@
+{
+    "skills": [
+        {
+            "name": "JavaScript",
+            "description": "Programming language that can be run in browsers",
+            "proficiency": 7,
+            "website": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+            "tags": [
+                "language"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "description": "Flavor of JavaScript with type annotations. Created by Microsoft",
+            "proficiency": 9,
+            "website": "http://www.typescriptlang.org/",
+            "tags": [
+                "language"
+            ]
+        },
+        {
+            "name": "Angular",
+            "description": "Web framework created at Google",
+            "proficiency": 7,
+            "website": "https://angular.io/",
+            "tags": [
+                "library"
+            ]
+        },
+        {
+            "name": "Java",
+            "description": "Programming language used in many platforms including servers and Android applications.",
+            "proficiency": 6,
+            "website": "https://www.java.com/",
+            "tags": [
+                "language"
+            ]
+        },
+        {
+            "name": "CSS",
+            "description": "Style definitions for web pages",
+            "proficiency": 4,
+            "website": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+            "tags": [
+                "language"
+            ]
+        },
+        {
+            "name": "Spring",
+            "description": "Web framework for Java developed by Pivotal",
+            "proficiency": 3,
+            "website": "https://spring.io/",
+            "tags": [
+                "library"
+            ]
+        },
+        {
+            "name": "React",
+            "description": "Web framework created at Facebook",
+            "proficiency": 0,
+            "website": "https://reactjs.org/",
+            "tags": [
+                "library"
+            ]
+        },
+        {
+            "name": "git",
+            "description": "Souce control tool",
+            "proficiency": 3,
+            "website": "https://git-scm.com/",
+            "tags": [
+                "tool"
+            ]
+        },
+        {
+            "name": "webpack",
+            "description": "Front end web application bundler",
+            "proficiency": 3,
+            "website": "https://webpack.js.org/",
+            "tags": [
+                "tool"
+            ]
+        }
+    ]
+}
