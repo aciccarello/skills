@@ -51,7 +51,7 @@ export default class SkillsList extends Component {
       });
     }
 
-    fetch('/skills.json')
+    fetch(process.env.PUBLIC_URL + '/skills.json')
       .then(results => results.json())
       .then(r => r.skills)
       .then(
