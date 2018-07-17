@@ -2,7 +2,8 @@
     "skills": [
         {
             "name": "JavaScript",
-            "description": "Programming language that can be run in browsers",
+            "description": "Programming language that can be run in browsers", 
+            "experience": "Full time development language since 2014",
             "proficiency": 7,
             "website": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
             "tags": [
@@ -12,6 +13,7 @@
         {
             "name": "TypeScript",
             "description": "Flavor of JavaScript with type annotations. Created by Microsoft",
+            "experience": "Maintainer of TypeScript documentation tool TypeDoc; Used in Angular application",
             "proficiency": 9,
             "website": "http://www.typescriptlang.org/",
             "tags": [
@@ -21,6 +23,7 @@
         {
             "name": "Angular",
             "description": "Web framework created at Google",
+            "experience": "Developed a large compensation tool for 6,000 users incorporating hybrid AngularJS 1/Anguar 5 lazy loading",
             "proficiency": 7,
             "website": "https://angular.io/",
             "tags": [
@@ -30,6 +33,7 @@
         {
             "name": "Java",
             "description": "Programming language used in many platforms including servers and Android applications.",
+            "experience": "Developed multiple REST applications, often using Java 8 streaming features; Learned while earning university degree",
             "proficiency": 6,
             "website": "https://www.java.com/",
             "tags": [
@@ -39,6 +43,7 @@
         {
             "name": "CSS",
             "description": "Style definitions for web pages",
+            "experience": "Capable of using styles for desgining great looking applications",
             "proficiency": 4,
             "website": "https://developer.mozilla.org/en-US/docs/Web/CSS",
             "tags": [
@@ -48,6 +53,7 @@
         {
             "name": "Spring",
             "description": "Web framework for Java developed by Pivotal",
+            "experience": "Used for creating REST APIs",
             "proficiency": 3,
             "website": "https://spring.io/",
             "tags": [
@@ -57,6 +63,7 @@
         {
             "name": "React",
             "description": "Web framework created at Facebook",
+            "experience": "Used in this web application",
             "proficiency": 0,
             "website": "https://reactjs.org/",
             "tags": [
@@ -65,7 +72,8 @@
         },
         {
             "name": "git",
-            "description": "Souce control tool",
+            "description": "Source control tool",
+            "experience": "Preferred source control both from both CLI and IDE tooling",
             "proficiency": 3,
             "website": "https://git-scm.com/",
             "tags": [
@@ -75,10 +83,41 @@
         {
             "name": "webpack",
             "description": "Front end web application bundler",
+            "experience": "Used in development/builds of Angular applications",
             "proficiency": 3,
             "website": "https://webpack.js.org/",
             "tags": [
                 "tool"
+            ]
+        },
+        {
+            "name": "agile",
+            "description": "Methodology for iterative/collaborative software development",
+            "experience": "Received agile training, brought stragies into existing team, worked on a fully agile team",
+            "proficiency": 6,
+            "website": "http://agilemanifesto.org/",
+            "tags": [
+                "non-technical"
+            ]
+        },
+        {
+            "name": "Test-driven development",
+            "description": "Process for writing software by starting with tests",
+            "experience": "Worked on a team that embraced test-driven development; previously used on individual basis",
+            "proficiency": 4,
+            "website": "https://en.wikipedia.org/wiki/Test-driven_development",
+            "tags": [
+                "non-technical"
+            ]
+        },
+        {
+            "name": "learnable",
+            "description": "Ability to pick up new skills an knowlege quickly",
+            "experience": "Self-taught Angular framework; enjoys picking up new skills; self-motivated",
+            "proficiency": 8,
+            "website": "http://www.dictionary.com/browse/learnable",
+            "tags": [
+                "non-technical"
             ]
         }
     ]
