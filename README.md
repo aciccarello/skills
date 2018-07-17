@@ -1,6 +1,6 @@
 # Skills Demo App
 This repository serves as a demonstration of a React application. The
-application shows a list of web development skills.
+application shows a list of web development skills. Uses the [Material UI library](https://material-ui.com/).
 
 See https://aciccarello.github.io/skills
 
