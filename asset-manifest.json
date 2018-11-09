@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.88ff6422.css",
-  "main.css.map": "static/css/main.88ff6422.css.map",
-  "main.js": "static/js/main.a681a2ee.js",
-  "main.js.map": "static/js/main.a681a2ee.js.map"
+  "main.css": "/skills/static/css/main.692196d8.chunk.css",
+  "main.js": "/skills/static/js/main.0df8cbe3.chunk.js",
+  "main.js.map": "/skills/static/js/main.0df8cbe3.chunk.js.map",
+  "static/js/1.e84a6733.chunk.js": "/skills/static/js/1.e84a6733.chunk.js",
+  "static/js/1.e84a6733.chunk.js.map": "/skills/static/js/1.e84a6733.chunk.js.map",
+  "runtime~main.js": "/skills/static/js/runtime~main.6a813994.js",
+  "runtime~main.js.map": "/skills/static/js/runtime~main.6a813994.js.map",
+  "static/css/main.692196d8.chunk.css.map": "/skills/static/css/main.692196d8.chunk.css.map",
+  "index.html": "/skills/index.html",
+  "precache-manifest.5db3359c8e86e4a3f41425d0124c07e7.js": "/skills/precache-manifest.5db3359c8e86e4a3f41425d0124c07e7.js",
+  "service-worker.js": "/skills/service-worker.js"
 }
