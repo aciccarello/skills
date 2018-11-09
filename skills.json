@@ -71,10 +71,20 @@
             ]
         },
         {
+            "name": "Dojo Framework",
+            "description": "Front end web framework",
+            "experience": "Developed client websites with Dojo (2+). Contributed to the Open Source project",
+            "proficiency": 3,
+            "website": "https://dojo.io/",
+            "tags": [
+                "library"
+            ]
+        },
+        {
             "name": "git",
             "description": "Source control tool",
             "experience": "Preferred source control both from both CLI and IDE tooling",
-            "proficiency": 3,
+            "proficiency": 6,
             "website": "https://git-scm.com/",
             "tags": [
                 "tool"
