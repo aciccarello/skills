@@ -6,6 +6,16 @@
   grid-auto-rows: 350px;
 }
 
+.skill-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.skill-card > div:first-child {
+  flex-grow: 1;
+}
+
 .skill-description {
   margin: 8px 0;
 }
