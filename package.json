@@ -5,6 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^1.4.0",
     "@material-ui/icons": "^1.1.0",
+    "ajv": "6.8.1",
     "flow-bin": "^0.86.0",
     "gh-pages": "^2.0.1",
     "husky": "^1.1.3",
